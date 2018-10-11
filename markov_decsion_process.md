@@ -8,9 +8,13 @@
 defined by (S,A,R,P,감마)
 
   S : state
+  
   A : action
+  
   R : reward
+  
   P : state transition probability matrix
+  
   감마 : discount factor 
 
 - 알고리즘
