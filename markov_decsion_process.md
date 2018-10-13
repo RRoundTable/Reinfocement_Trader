@@ -1,9 +1,9 @@
 
-- markov property란,
+### markov property란,
 
-  현재의 상태로 미래상태를 예측할 수 있는 특성을 의미한다.
+현재의 상태로 미래상태를 예측할 수 있는 특성을 의미한다.
 
-  defined by (S,A,R,P,감마)
+defined by (S,A,R,P,감마)
 
     S : state
 
@@ -15,7 +15,7 @@
 
     감마 : discount factor 
 
-- 알고리즘
+### 알고리즘
 
   1. 첫 번째 스탭에서, step t=0, environment는 S 확률분포 P를 따라서 initial state를 지정한다.
 
