@@ -52,7 +52,7 @@ Q-learning에서는 target과 prediction이 나누어지는데
 
 target은 t-1번째의 parameter로 현재 reward와 다음 state에서의 최고 reward로 이루어져 있다.
 
-prediction은 t번째의 parameter로 
+prediction은 t번째의 parameter로 현재시점의 reward를 구한다.
 
 
 
