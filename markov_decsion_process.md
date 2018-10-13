@@ -20,6 +20,7 @@
   1. 첫 번째 스탭에서, step t=0, environment는 S 확률분포 P를 따라서 initial state를 지정한다.
 
   2. 첫 번째 state에서
+  
     - agent는 action을 결정한다
     - enviroment는 reward를 구한다.
     - enviroment는 다음 state를 구한다.
