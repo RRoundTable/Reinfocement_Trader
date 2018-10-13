@@ -47,6 +47,4 @@ theta는 함수의 parameter를 의미한다.
 ![Q-learning_loss](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6sqIGLjef-RnIa0H3wU2JDgPUtltlKtMGmioFFLh__pPoBD8)
 
 
-1.
-2.
-3.
+
