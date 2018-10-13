@@ -1,5 +1,5 @@
 
-### markov property란,
+## markov property란,
 
 현재의 상태로 미래상태를 예측할 수 있는 특성을 의미한다.
 
@@ -45,6 +45,14 @@ theta는 함수의 parameter를 의미한다.
 
 
 ![Q-learning_loss](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6sqIGLjef-RnIa0H3wU2JDgPUtltlKtMGmioFFLh__pPoBD8)
+
+Q-learning에서는 target과 prediction이 나누어지는데 
+
+이 둘의 함수는 '시간차'가 존재한다.
+
+target은 t-1번째의 parameter로 현재 reward와 다음 state에서의 최고 reward로 이루어져 있다.
+
+prediction은 t번째의 parameter로 
 
 
 
