@@ -37,10 +37,14 @@ defined by (S,A,R,P,감마)
 
 이런 점을 해결하기위해서 Q(s,a)를 함수로 근사하는데 이를 Q-learning이라고 부른다.
 
-![Q-learning](https://wdc.objectstorage.softlayer.net/v1/AUTH_7046a6f4-79b7-4c6c-bdb7-6f68e920f6e5/Code-Articles/cc-reinforcement-learning-train-software-agent/images/fig03.png)
 Q(s,a;theta)=Q(s,a)
 
 theta는 함수의 parameter를 의미한다.
+
+![Q-learning](https://wdc.objectstorage.softlayer.net/v1/AUTH_7046a6f4-79b7-4c6c-bdb7-6f68e920f6e5/Code-Articles/cc-reinforcement-learning-train-software-agent/images/fig03.png)
+
+
+
 
 
 1.
