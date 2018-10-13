@@ -44,7 +44,7 @@ theta는 함수의 parameter를 의미한다.
 ![Q-learning](https://wdc.objectstorage.softlayer.net/v1/AUTH_7046a6f4-79b7-4c6c-bdb7-6f68e920f6e5/Code-Articles/cc-reinforcement-learning-train-software-agent/images/fig03.png)
 
 
-
+![Q-learning_loss](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6sqIGLjef-RnIa0H3wU2JDgPUtltlKtMGmioFFLh__pPoBD8)
 
 
 1.
