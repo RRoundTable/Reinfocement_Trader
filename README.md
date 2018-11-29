@@ -1,7 +1,6 @@
 # Reinfocement_Trader
-Team project for reinforcement trading system
-
-by 김정현,윤동진,강연욱,류원탁,김수영,김혜린 
+- Team project for reinforcement trading system   
+- 문제해결프로젝트 by 김정현,윤동진,강연욱,류원탁,김수영,김혜린 
 
 ## 강화학습을 활용한 주식 트레이더
 
